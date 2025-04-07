@@ -52,7 +52,7 @@ Reach me:
 
 ⚡ Fun Facts
 - Designed 50+ Arabic learning infographics
-- Solved 300+ coding challenges
+- Solved 86+ coding challenges
 - Can explain recursion using Arabic poetry metaphors 📜
 
 
