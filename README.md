@@ -47,7 +47,8 @@ I'm excited about:
 - UI/UX design for Arabic interfaces
 
 Reach me:
-- 💼 [LinkedIn]()
+- 💼 www.linkedin.com/in/azeez-muhammad
+
 - 📧 azeezmuhammad24434@gmail.com 
 
 ⚡ Fun Facts
