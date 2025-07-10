@@ -11,10 +11,12 @@
 ![Figma](https://img.shields.io/badge/Figma-FF3E00?style=flat-square&logo=figma&logoColor=white)
 
 { Backend }:  
+![TypeScript]()
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 { Design }:  
+![draw.io]()
 ![figma creative designs ](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=flat-square&logo=adobe-creative-cloud&logoColor=white)
 
 -- 🌱 Current Focus
