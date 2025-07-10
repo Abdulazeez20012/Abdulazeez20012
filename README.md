@@ -4,6 +4,7 @@
 -- 🛠️ Technical Arsenal
 
 </> Frontend />:  
+![React]()
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -18,20 +19,6 @@
 
 -- 🌱 Current Focus
 
-- Building: Full-stack applications with Java/Spring & JavaScript/React
-- Mastering: System architecture and database optimization
-- Teaching: Modern Arabic through tech-integrated methods
-
--- 📚 Featured Projects
-
--- 💉 [Medical Appointment System](https://github.com/Abdulazeez20012/medical-app)
-Flask-based healthcare management system with React frontend
-
--- 🎨 [UI Kit for Arabic Learning Apps](https://github.com/Abdulazeez20012/arabic-ui-kit)
-Figma design system for language education platforms
-
--- ⚙️ [Problem-Solving Repo](https://github.com/Abdulazeez20012/algorithms)
-Java/Python solutions to LeetCode & competitive programming challenges
 
 -- 👨‍🏫 Beyond Code
 
