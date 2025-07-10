@@ -1,5 +1,5 @@
 -- 👋hi I'm Abdul azeez Muhammad 
--- 💻 Full-Stack Developer | Arabic Tutor | Problem Solver
+-- 💻 A Frontend Developer , UI/UX Designer & Graphic Designer | Arabic Tutor | Problem Solver
 
 -- 🛠️ Technical Arsenal
 
